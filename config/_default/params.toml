@@ -219,7 +219,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = false, project = true, publication = false, talk = false}
@@ -278,7 +278,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-168231209-1"
   google_tag_manager = ""
 
 ############################
