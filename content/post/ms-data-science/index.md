@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Image by Aaron Burden via Unsplash. https://unsplash.com/photos/QJDzYT_K8Xg"
   focal_point: ""
   preview_only: false
 
@@ -28,8 +28,11 @@ image:
 projects: []
 ---
 
+Data science is a vast field - deep and wide. It still does not cease to amaze me, after all, we are predicting the future. It is an evolving field so no degree program can cover its breadth. Therefore, it is important for data science professionals to choose their domain and specialize in it.
 
-Data science is a vast field. No master's program can cover all of it. This is why data science professionals choose their niche (business analytics, NLP, deep learning, etc.) and specialize in it. After working in data science field for three years, I have chosen my niche: machine learning (ML). Mastering ML was one of the biggest motivations why I applied to graduate school. It is one thing to apply ML algorithms using existing libraries (such as scikit-learn and PyTorch), but it's a different thing altogether to use them appropriately which requires understanding the inner workings of an algorithm, understand its advantages and disadvantages, and to learn the scenarios where it should and should not be used. To fulfil my goal of specializing in ML, I have created a list of topics that I think will enable me to have a successfull career in data science and ML. My goal is to learn all foundational maths and computer science courses that from this list by the time I graduate in May 2021. The source of learning these topics will university courses, online courses, and books. The list of topics is present below along with an emoji showcasing my current progress. I will be constantly this post to accomodate new topics and to update my progress.
+Working in the field of data science at an online education startup in India acquainted me to its various disciplines such as business analytics, natural language processing, and machine learning. By working with professionals from both industry and academia, I realized the impact that all these disciplines have on businesses and society. Although the impact of each field is subjective, they all involve telling a story from the data at hand, and making decisions based on the insights from the story. The way how stories are told across these disciplines varies since some stories involve throwing statistics at their audiences while some stories rely purely on visualizations. In the process of choosing a data science specialization, I had to figure out my own way of telling a story to facilitate making impactful business decisions. Since I have always enjoyed math and programming, I wanted to choose a niche that blends both these subjects. As a result, I decided to specialize in machine learning. Mastering machine learning (ML) was a conscious and well-calculated decision that motivated me to apply to graduate school. Importance of planning for graduate students can not be overstated. Therefore, in my pursuit to master ML, I have composed a list of topics that I plan to learn by the time I graduate in May 2021. The list contains important math and computer science courses that will lay a solid foundation for me as an machine learning professional. The sources of learning these topics will include university coursework, online platforms, and books.
+
+The list of topics is present below along with an emoji showcasing my current progress. I will be continuously updating this post to reflect my progress and accommodate new topics.
 
 Note on emoji reference:
 - :heavy_check_mark:: Completed learning the topic and feel fairly confident in it. 
@@ -72,4 +75,4 @@ Note on emoji reference:
 ----
 
 
-Last updated: June 1, 2020.
+Last updated: June 2, 2020.
