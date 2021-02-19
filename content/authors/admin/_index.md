@@ -72,7 +72,9 @@ email: ""
 #- Visitors
 ---
 
-I am a graduate student pursuing a Master in Interdisciplinary Data Science (MIDS) at Duke University with a bachelor's in computer science. My prior work experience includes:
-- Freelance data science consultation for clients in finance and IT.
-- Creating machine learning and AI courses for India's top-most online education startup.
-- Developing and optimizing deep learning models for computer vision and natural language processing applications.
+Accomplished data scientist with expertise in machine learning and AI. My work experience includes:
+- Developed and optimized deep learning models for computer vision applications.
+- Created machine learning and AI courses for one of the best online education startups in India.
+- Worked as a freelance data science consultation for clients in finance and IT.
+
+

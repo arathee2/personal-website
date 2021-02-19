@@ -43,36 +43,41 @@ Note on emoji reference:
 # Mathematics
 ----
 - Calculus :heavy_check_mark:
-	- [Book, 2020] Calculus: Early Transcendentals
+	- [Book, 2020] Calculus: Early Transcendentals :heavy_check_mark:
 ----
 - Linear Algebra :heavy_check_mark:
-	- [Course, 2019] Duke MATH 718: Matrices and Vector Spaces.
-	- [Book, 2019] Introduction to Linear Algebra by Gilbert Strang.
+	- [Course, 2019] Duke MATH 718: Matrices and Vector Spaces :heavy_check_mark:
+	- [Book, 2019] Introduction to Linear Algebra by Gilbert Strang :heavy_check_mark:
 ----
-- Probability :clock2:
-	- [Book, 2020] Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik.
+- Probability :heavy_check_mark:
+  - [Course, 2020] Duke MATH 740 - Advanced Introduction to Probability :heavy_check_mark:
+  - [Book, 2020] A Natural Introduction to Probability Theory by Ronald Meester :heavy_check_mark:
 ----
-- Statistics :clock2:
-	- [Course, 2019] Duke STA 611: Introduction to Mathematical Statistics.
-	- [Book, 2020] OpenIntro Statistics.
+- Statistics :heavy_check_mark:
+	- [Course, 2019] Duke STA 611: Introduction to Mathematical Statistics :heavy_check_mark:
+	- [Course, 2019] Duke IDS 702: Modeling and Representation of Data :heavy_check_mark:
+	- [Book, 2020] OpenIntro Statistics :heavy_check_mark:
 ----
 # Computer Science
 ----
 - Programming :clock2:
-	- [Course, 2020] Duke ECE 551: Programming, Data Structures, and Algorithms in C++.
-	- [Course, 2021] Duke ECE 651: Software Engineering.
+	- [Course, 2020] Duke ECE 551: Programming, Data Structures, and Algorithms in C and C++ :heavy_check_mark:
+	- [Course, 2021] Duke ECE 651: Software Engineering :clock2::
 ----
-- Algorithms :clock2:
-	- [Course, 2020]: Duke CS 531: Introduction to Algorithms
+- Algorithms :heavy_check_mark:
+	- [Course, 2020]: Duke CS 531: Introduction to Algorithms :heavy_check_mark:
 ----
-- Machine Learning :clock2:
-	- [Course, 2020] Duke IDS 705: Principles of Machine Learning
-	- [Book, 2019] An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani 
+- Machine Learning :heavy_check_mark:
+	- [Course, 2020] Duke IDS 705: Principles of Machine Learning :heavy_check_mark:
+	- [Book, 2020] An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani :heavy_check_mark:
 ----
 - Deep Learning :clock2:
-	- [Course, 2019] Deep Vision by School of AI.
-	- [Book, 2018] Deep Learning with Python by François Chollet
+	- [Course, 2019] Deep Vision by School of AI :heavy_check_mark:
+	- [Book, 2018] Deep Learning with Python by François Chollet :heavy_check_mark:
+	- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio :x::
 ----
+- Reinforcement Learning :heavy_check_mark:
+	- [Book, 2020] Reinforcement Learning: An Introduction :heavy_check_mark:
 
 
-Last updated: June 2, 2020.
+Last updated: February 19, 2021.
