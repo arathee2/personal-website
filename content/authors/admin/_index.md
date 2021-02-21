@@ -21,18 +21,18 @@ organizations:
 bio: Passionate about data science, machine learning and AI.
 
 interests:
-- Data Science in Healthcare
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
+- Data science and its applications healthcare, finance and the tech industry.
+- Deep learning and its applications in natural language processing and computer vision problems.
+- Deep reinforcement learning and its applications in optimizing routing problems.
+
 
 education:
   courses:
   - course: MS in Interdisciplinary Data Science
-    institution: Duke University
+    institution: Duke University, USA
     year: 2021
-  - course: BEng in Computer Science and Engineering
-    institution: Visvesvaraya Technological University
+  - course: BS in Computer Science and Engineering
+    institution: Visvesvaraya Technological University, India
     year: 2017
 
 # Social/Academic Networking
@@ -72,9 +72,9 @@ email: ""
 #- Visitors
 ---
 
-Accomplished data scientist with expertise in machine learning and AI. My work experience includes:
+Hi there! I am an accomplished data scientist with expertise in machine learning and AI who is currently attending MS Data Science at Duke University. My work experience includes:
 - Developed and optimized deep learning models for computer vision applications.
 - Created machine learning and AI courses for one of the best online education startups in India.
 - Worked as a freelance data science consultation for clients in finance and IT.
 
-
+Outside of work, I enjoy playing chess and badminton.
